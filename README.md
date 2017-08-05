@@ -16,6 +16,6 @@
         Overworked and Underpaid: The Least We Could Do Is Pay Our Teachers
       </a> 
       </td>
-    <td><a href='https://github.com/oanise93/data/tree/master/teachers>teachers</a></td>
+    <td><a href='https://github.com/oanise93/data/tree/master/teachers'>teachers</a></td>
   </tr>
 </table>
