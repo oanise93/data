@@ -5,8 +5,8 @@
     <th align="center">Folder</th>
   <tr>
   <tr>
-    <td>TBD</td>
-    <td><a href=''>TBD</a> </td>
+    <td>May 10, 2017</td>
+    <td><a href='https://medium.com/@oanise93/why-we-cant-trust-the-process-an-argument-against-the-philadelphia-seventy-sixers-method-of-7ad539fd2c51'>Why We Can't Trust the Process</a></td>
     <td><a href='https://github.com/oanise93/data/tree/master/the_process'>the_process</a></td>
   </tr>
     <tr>
